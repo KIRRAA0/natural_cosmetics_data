@@ -197,6 +197,7 @@
         "condition_name": "Blackheads",
         "body_part": "Face",
         "description": "Common acne type, develops from sebum and dead skin cells clogging pores.",
+        "causes": ["Excess oil production", "Irritation of the hair follicles", "Build-up of Propionibacterium acnes bacteria", "Hormonal changes"],
         "useful_tips": [
             "Wash face regularly",
             "Remove makeup",
@@ -234,6 +235,7 @@
         "condition_name": "Whiteheads",
         "body_part": "Face",
         "description": "Small, flesh-colored papules on the skin, often found on oily areas of the face.",
+        "causes": ["Clogged pores due to oil and dead skin", "Hormonal fluctuations", "Poor skin hygiene", "Use of certain cosmetics or oils"],
         "useful_tips": [
             "Cleanse skin regularly",
             "Use non-comedogenic products",
@@ -270,6 +272,7 @@
     {
         "condition_name": "Hair Loss",
         "body_part": "Hair",
+        "causes": ["Genetic factors", "Hormonal changes (e.g., pregnancy, menopause)", "Medical conditions", "Nutritional deficiencies"],
         "description": "Hair loss is a common condition characterized by Progressive thinning of hair which occurs as people age. Some people experience circular bald patches on their beard eyebrows or scalp.",
         "useful_tips": [
             "Follow healthy diet",
@@ -305,6 +308,7 @@
     {
         "condition_name": "Dandruff",
         "body_part": "Hair",
+        "causes": ["Dry skin", "Seborrheic dermatitis", "Not cleaning/scrubbing often enough", "Yeast-like fungus (Malassezia)", "Sensitivity to hair care products"],
         "description": "Dandruff is a chronic condition characterized by an excessive shedding of dead skin cells from the scalp.",
         "useful_tips": [
             "Avoid using hot water to wash the hair",
@@ -344,6 +348,7 @@
     {
         "condition_name": "Split Ends",
         "body_part": "Hair",
+        "causes": ["Excessive heat styling", "Chemical hair treatments", "Lack of trimming", "Environmental damage (e.g., sun exposure)"],
         "description": "Split ends are caused by damage to the protein structure of the hair, leading to loss of mechanical strength from the cuticle to the cortex.",
         "useful_tips": [
             "Avoid washing hair on daily basis",
@@ -381,6 +386,7 @@
     {
         "condition_name": "Brittle Nails",
         "body_part": "Nails",
+        "causes": ["Frequent exposure to water and chemicals", "Aging", "Nutritional deficiencies", "Long-term use of nail polish or acrylic nails", "Underlying health conditions like hypothyroidism"],
         "description": "A condition where nails become easily breakable due to various factors.Almost everyone can have brittle nails. It is a frequent problem that results in split, thin, or weak nails. It may arise from an underlying condition like anemia or thyroid problems or from problems with moisture.",
         "useful_tips": [
             "Keep nails short and trimmed",
@@ -410,6 +416,7 @@
     {
         "condition_name": "Dark Lips",
         "body_part": "Lips",
+        "causes": ["Excessive sun exposure", "Dehydration", "Use of low-quality cosmetics", "Smoking", "Caffeine"],
         "description": "Discoloration or darkening of lips due to various external or internal factors.",
         "useful_tips": [
             "Stay hydrated",
@@ -438,6 +445,7 @@
     {
         "condition_name": "Chapped Lips",
         "body_part": "Lips",
+        "causes": ["Dry or cold weather", "Sun exposure", "Frequent licking of lips", "Dehydration", "Allergic reaction to lip care products"],
         "description": "Dry, cracked lips caused by various factors like weather or dehydration.",
         "useful_tips": [
             "Choose non-irritating lip products",
@@ -464,43 +472,42 @@
         ]
     },
     {
-        "condition": {
-            "condition_name": "Teeth Discoloration",
-            "body_part": "Teeth",
-            "description": "Teeth discoloration is characterized by changes in the color of your teeth. It can occur as a result of various factors including diet, oral hygiene, and certain medications.",
-            "useful_tips": [
-                "Brush teeth regularly",
-                "Use whitening toothpaste",
-                "Limit consumption of staining foods and drinks",
-                "Regular dental cleanings"
-            ],
-            "recipes": [
-                {
-                    "recipe_name": "Activated Charcoal Recipe",
-                    "ingredients": [
-                        "Activated charcoal powder",
-                        "Water"
-                    ],
-                    "images": [
-                        "path/to/oatmeal_bath_image1.jpg",
-                        "path/to/oatmeal_bath_image2.jpg"
-                    ],
-                    "instructions": "Mix activated charcoal powder with water to create a paste, apply on teeth, gently brush for 2 minutes, rinse thoroughly."
-                },
-                {
-                    "recipe_name": "The Banana Peel Recipe",
-                    "ingredients": [
-                        "1 banana peel",
-                        "1 teaspoon lemon juice",
-                        "1 teaspoon toothpaste"
-                    ],
-                    "images": [
-                        "path/to/oatmeal_bath_image1.jpg",
-                        "path/to/oatmeal_bath_image2.jpg"
-                    ],
-                    "instructions": "Rub the banana peel to get the inner content, add lemon juice and toothpaste, mix well, apply with a toothbrush, brush for 1-2 minutes, repeat 3-4 times a week."
-                }
-            ]
-        }
+        "condition_name": "Teeth Discoloration",
+        "body_part": "Teeth",
+        "causes": ["Consumption of certain foods and beverages (like coffee, tea, red wine)", "Tobacco use", "Poor dental hygiene", "Disease affecting enamel and dentin", "Certain medications", "Aging"],
+        "description": "Teeth discoloration is characterized by changes in the color of your teeth. It can occur as a result of various factors including diet, oral hygiene, and certain medications.",
+        "useful_tips": [
+            "Brush teeth regularly",
+            "Use whitening toothpaste",
+            "Limit consumption of staining foods and drinks",
+            "Regular dental cleanings"
+        ],
+        "recipes": [
+            {
+                "recipe_name": "Activated Charcoal Recipe",
+                "ingredients": [
+                    "Activated charcoal powder",
+                    "Water"
+                ],
+                "images": [
+                    "path/to/oatmeal_bath_image1.jpg",
+                    "path/to/oatmeal_bath_image2.jpg"
+                ],
+                "instructions": "Mix activated charcoal powder with water to create a paste, apply on teeth, gently brush for 2 minutes, rinse thoroughly."
+            },
+            {
+                "recipe_name": "The Banana Peel Recipe",
+                "ingredients": [
+                    "1 banana peel",
+                    "1 teaspoon lemon juice",
+                    "1 teaspoon toothpaste"
+                ],
+                "images": [
+                    "path/to/oatmeal_bath_image1.jpg",
+                    "path/to/oatmeal_bath_image2.jpg"
+                ],
+                "instructions": "Rub the banana peel to get the inner content, add lemon juice and toothpaste, mix well, apply with a toothbrush, brush for 1-2 minutes, repeat 3-4 times a week."
+            }
+        ]
     }
 ]
