@@ -2,6 +2,7 @@
     {
         "condition_name": "Eczema",
         "body_part": "Body",
+        "condition_img":"https://images.everydayhealth.com/images/skin-beauty/eczema/what-is-eczema-02-hand-eczema-722x406.jpg?sfvrsn=3b197278_5",
         "description": "Eczema, particularly atopic dermatitis, is a skin condition characterized by itchiness and dryness. It can be influenced by both environmental and genetic factors.",
         "useful_tips": [
             "Regularly moisturize",
@@ -20,8 +21,8 @@
                 ],
                 "instructions": "Blend oats, mix with warm bath water, soak, then moisturize.",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/09/23/rolled-oats-linen-wood-surface-white-bowl.jpg.rend.hgtvcom.1280.960.suffix/1632429307666.jpeg",
+                    "https://www.treehugger.com/thmb/OzqfQuQx_EFC4vwLeJ9jfdf9C20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coconut-oil-and-coconuts--palm-branches-close-up-1314573256-db8f4eab6c77432ca4470672ee6b4ecf.jpg"
                 ]
             },
             {
@@ -32,8 +33,8 @@
                 ],
                 "instructions": "Mix honey and olive oil, apply to skin, leave for a period, then wash off.",
                 "images": [
-                    "path/to/honey_olive_oil_image1.jpg",
-                    "path/to/honey_olive_oil_image2.jpg"
+                    "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+                    "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953"
                 ]
             }
         ],
@@ -45,6 +46,7 @@
     {
         "condition_name": "Foot Odor",
         "body_part": "Feet",
+        "condition_img":"https://www.bonnysilver.us/cdn/shop/articles/5fd88c48c382e_1024x1024.jpg?v=1608036504",
         "description": "Common condition characterized by smelly feet, known as bromodosis.",
         "useful_tips": [
             "Wash feet daily",
@@ -64,8 +66,8 @@
                 ],
                 "instructions": "Fill a foot basin with warm or cold water then Add 1/3 cup of white vinegar or apple cider vinegar , Soak your feet in the foot bath for 15 minutes (can be repeated multiple times a day if needed) then rinse and dry your feet. Rub a few drops of lavender oil on your feet especially between your toes. You can sprinkle some baking soda in your shoes to soak up the moisture and bad odor.(Caution: avoid soaking your feet in vinegar in case of having any open wounds or sores) ",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://cdn.shopify.com/s/files/1/0648/1955/files/oil_from_lavender.jpg",
+                    "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2023/07/iStock-1352688717.jpg"
                 ]
             }
         ],
@@ -77,6 +79,7 @@
     {
         "condition_name": "Dark Circles",
         "body_part": "Eyes",
+        "condition_img":"https://images.ctfassets.net/u4vv676b8z52/47V4TT1U3ZzvkZPrwUi7xi/a94094548690c551a1a7e0e7fc464a0d/dark-circles-under-eyes-678x446.gif?fm=jpg&q=80",
         "description": "Darkening of the skin beneath both eyes.",
         "useful_tips": [
             "Get enough sleep",
@@ -93,8 +96,8 @@
                 ],
                 "instructions": "Add boiling water to the tea bags in a cup Brew the tea bags for 5 – 10 minutes Take out the tea bags and put them in the refrigerator to cool then Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly.",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://images.ctfassets.net/e8bhhtr91vp3/mtK66uB4RANFaeshtDSz4/13d2f7ade2aea7f5ee25dc027748351c/What_is_green_tea.webp?w=1600&q=60",
+                    "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
                 ]
             }
         ],
@@ -111,6 +114,7 @@
     {
         "condition_name": "Under-eye Bags",
         "body_part": "Eyes",
+        "condition_img":"https://ocalaeye.com/wp-content/uploads/2022/04/nancy-before.png",
         "description": "Mild puffiness or swelling beneath the eyes.",
         "useful_tips": [
             "Use cool compresses",
@@ -128,19 +132,19 @@
                 ],
                 "instructions": "Wash a fresh cold cucumber well then cut it into thin slices. Then Gently put two cucumber slices on both eyes and leave them on  until they warm up, then turn them over and leave them on until they warm up. Remove the slices and wash your face.",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2445929.png",
+                    "https://articles-1mg.gumlet.io/articles/wp-content/uploads/2016/05/slides-cucumbers1-2.jpg?compress=true&quality=80&w=640&dpr=2.6"
                 ]
             },
             {
                 "recipe_name": "The Black or Green Tea Recipe",
                 "ingredients": [
-                    "2 cold back tea or green tea bags"
+                    "2 cold black tea or green tea bags"
                 ],
                 "instructions": "Add boiling water to the tea bags in a cup Brew the tea bags for 5 – 10 minutes Take out the tea bags and put them in the refrigerator to cool then Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly.",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://www.healthifyme.com/blog/wp-content/uploads/2020/02/Black-Tea-2-1.jpg",
+                    "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
                 ]
             }
         ],
@@ -152,6 +156,7 @@
     {
         "condition_name": "Active Acne",
         "body_part": "Face",
+        "condition_img":"https://radiantclinique.com/wp-content/uploads/2019/01/Active-acne.jpg",
         "description": "An inflammatory condition from oil and dead skin cells in hair follicles causing bacteria growth.",
         "causes": [
             "Hormonal fluctuations",
@@ -175,8 +180,8 @@
                 ],
                 "instructions": "Brew teabag, cool, mix with honey, apply on face, rinse after 15 minutes.",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg",
+                    "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg"
                 ]
             },
             {
@@ -187,8 +192,8 @@
                 ],
                 "instructions": "Mix honey and yogurt, apply on face, rinse after 15 minutes.",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+                    "https://maharaj-northbrook.com/wp-content/uploads/2020/10/Plain-Yogurt-1.jpg"
                 ]
             }
         ]
@@ -196,6 +201,7 @@
     {
         "condition_name": "Blackheads",
         "body_part": "Face",
+        "condition_img":"https://www.advanceddermatologyseattle.com/wp-content/uploads/2020/05/blackheads.jpg",
         "description": "Common acne type, develops from sebum and dead skin cells clogging pores.",
         "causes": ["Excess oil production", "Irritation of the hair follicles", "Build-up of Propionibacterium acnes bacteria", "Hormonal changes"],
         "useful_tips": [
@@ -213,7 +219,8 @@
                 ],
                 "instructions": "Mix egg white and honey, apply on face, rinse after 20 minutes.",
                 "images": [
-                    "path/to/blackhead_egg_white.jpg"
+                    "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+                    "https://m.timesofindia.com/photo/88896772/88896772.jpg"
                 ]
             },
             {
@@ -226,7 +233,8 @@
                 ],
                 "instructions": "Mix ingredients, apply on face, gently massage, rinse off.",
                 "images": [
-                    "path/to/tea_tree_oil_image.jpg"
+                    "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+                    "https://www.purodem.com/wp-content/uploads/2022/11/carrier-oils-1.webp"
                 ]
             }
         ]
@@ -234,6 +242,7 @@
     {
         "condition_name": "Whiteheads",
         "body_part": "Face",
+        "condition_img":"https://i.insider.com/59b68233f7f1f621008b4788?width=700",
         "description": "Small, flesh-colored papules on the skin, often found on oily areas of the face.",
         "causes": ["Clogged pores due to oil and dead skin", "Hormonal fluctuations", "Poor skin hygiene", "Use of certain cosmetics or oils"],
         "useful_tips": [
@@ -251,8 +260,8 @@
                 ],
                 "instructions": "Dilute lemon juice with water, apply on face, rinse after 10 minutes.",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
+                    "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
                 ]
             },
             {
@@ -263,8 +272,8 @@
                 ],
                 "instructions": "Mix baking soda and water, apply as a mask, rinse after 15 minutes.",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2023/07/iStock-1352688717.jpg",
+                    "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
                 ]
             }
         ]
@@ -272,6 +281,7 @@
     {
         "condition_name": "Hair Loss",
         "body_part": "Hair",
+        "condition_img":"https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24515-male-pattern-baldness",
         "causes": ["Genetic factors", "Hormonal changes (e.g., pregnancy, menopause)", "Medical conditions", "Nutritional deficiencies"],
         "description": "Hair loss is a common condition characterized by Progressive thinning of hair which occurs as people age. Some people experience circular bald patches on their beard eyebrows or scalp.",
         "useful_tips": [
@@ -289,8 +299,8 @@
                     "5 garlic cloves"
                 ],
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://spiceworldinc.com/wp-content/uploads/2022/06/SW-Onion-Health-Hero.jpg",
+                    "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/05/25/cloves-of-garlic-in-bowl.jpg.rend.hgtvcom.1280.1280.suffix/1621974631234.jpeg"
                 ],
                 "instructions": "Blend onions and garlic, strain the juice, apply and massage the scalp, leave for 10 minutes, rinse with gentle shampoo."
             },
@@ -308,6 +318,7 @@
     {
         "condition_name": "Dandruff",
         "body_part": "Hair",
+        "condition_img":"https://www.starhealth.in/blog/wp-content/uploads/2022/07/common-image-of-Dandruff.jpg",
         "causes": ["Dry skin", "Seborrheic dermatitis", "Not cleaning/scrubbing often enough", "Yeast-like fungus (Malassezia)", "Sensitivity to hair care products"],
         "description": "Dandruff is a chronic condition characterized by an excessive shedding of dead skin cells from the scalp.",
         "useful_tips": [
@@ -320,8 +331,8 @@
             {
                 "recipe_name": "The Lemon and Ginger Recipe",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
+                    "https://i0.wp.com/www.savourous.com/wp-content/uploads/2021/02/ginger-juice8-book.jpg?fit=1287%2C1286&ssl=1"
                 ],
                 "ingredients": [
                     "1 tablespoon lemon juice",
@@ -333,8 +344,8 @@
             {
                 "recipe_name": "The Fenugreek and Hibiscus Recipe",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://5.imimg.com/data5/SELLER/Default/2021/1/FM/LV/WK/5003318/fenugreek-seeds-powder-500x500.jpeg",
+                    "https://recipes.net/wp-content/uploads/2024/01/how-to-grind-hibiscus-1704356290.jpg"
                 ],
                 "ingredients": [
                     "1 tablespoon powdered fenugreek seeds",
@@ -348,6 +359,7 @@
     {
         "condition_name": "Split Ends",
         "body_part": "Hair",
+        "condition_img":"https://static.wixstatic.com/media/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg/v1/fill/w_640,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg",
         "causes": ["Excessive heat styling", "Chemical hair treatments", "Lack of trimming", "Environmental damage (e.g., sun exposure)"],
         "description": "Split ends are caused by damage to the protein structure of the hair, leading to loss of mechanical strength from the cuticle to the cortex.",
         "useful_tips": [
@@ -360,8 +372,8 @@
             {
                 "recipe_name": "The Banana Recipe",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://insidebrucrewlife.com/wp-content/uploads/2022/01/Ripe-Bananas-3-1-e1642115102588.jpg",
+                    "https://static.toiimg.com/thumb/88520288.cms?width=573&height=430"
                 ],
                 "ingredients": [
                     "2 ripe bananas",
@@ -372,8 +384,8 @@
             {
                 "recipe_name": "The Sunflower Oil Recipe",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://static.toiimg.com/thumb/88520288.cms?width=573&height=430",
+                    "https://s.yimg.com/ny/api/res/1.2/RAvlhh19yxOcNKFNDl_0SA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/first_for_women_876/f2cecbc3a9da6c42a347d10e8f5d35fc"
                 ],
                 "ingredients": [
                     "1 egg",
@@ -386,6 +398,7 @@
     {
         "condition_name": "Brittle Nails",
         "body_part": "Nails",
+        "condition_img":"https://www.shutterstock.com/image-photo/flaky-bitten-brittle-nails-without-600nw-2305814343.jpg",
         "causes": ["Frequent exposure to water and chemicals", "Aging", "Nutritional deficiencies", "Long-term use of nail polish or acrylic nails", "Underlying health conditions like hypothyroidism"],
         "description": "A condition where nails become easily breakable due to various factors.Almost everyone can have brittle nails. It is a frequent problem that results in split, thin, or weak nails. It may arise from an underlying condition like anemia or thyroid problems or from problems with moisture.",
         "useful_tips": [
@@ -401,8 +414,8 @@
             {
                 "recipe_name": "Olive Oil Soak",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953",
+                    "https://5.imimg.com/data5/VG/RQ/MY-37527802/organic-peeled-garlic-cloves.png"
                 ],
                 "ingredients": [
                     "2 tablespoon Olive oil",
@@ -416,6 +429,7 @@
     {
         "condition_name": "Dark Lips",
         "body_part": "Lips",
+        "condition_img":"https://images.indianexpress.com/2019/11/dark-lips-1200.jpg?w=389",
         "causes": ["Excessive sun exposure", "Dehydration", "Use of low-quality cosmetics", "Smoking", "Caffeine"],
         "description": "Discoloration or darkening of lips due to various external or internal factors.",
         "useful_tips": [
@@ -429,8 +443,8 @@
             {
                 "recipe_name": "Lemon and Sugar Scrub",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://hips.hearstapps.com/hmg-prod/images/lemon-juice-royalty-free-image-510180395-1531432390.jpg?crop=1.00xw:0.717xh;0,0.157xh&resize=640:*",
+                    "https://cdn.britannica.com/73/239573-131-63075292/sugar-cubes.jpg"
                 ],
                 "ingredients": [
                     "Juice of 1 lemon ",
@@ -445,6 +459,7 @@
     {
         "condition_name": "Chapped Lips",
         "body_part": "Lips",
+        "condition_img":"https://media.self.com/photos/65158d5e1c03b290a43f806d/4:3/w_2560%2Cc_limit/Chapped-lips.jpeg",
         "causes": ["Dry or cold weather", "Sun exposure", "Frequent licking of lips", "Dehydration", "Allergic reaction to lip care products"],
         "description": "Dry, cracked lips caused by various factors like weather or dehydration.",
         "useful_tips": [
@@ -459,8 +474,8 @@
             {
                 "recipe_name": "Honey Lip Mask",
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
+                    "https://vedix.com/cdn/shop/articles/Evidence-Based_d0ddd4a0-ff26-4541-bf3c-095cc6046b1c_1024x400.jpg?v=1635945992"
                 ],
                 "ingredients": [
                     "2 tablespoon of Honey",
@@ -474,6 +489,7 @@
     {
         "condition_name": "Teeth Discoloration",
         "body_part": "Teeth",
+        "condition_img":"https://scottsdaledentalexcellence.com/wp-content/uploads/2021/01/why-teeth-discolor-and-how-to-prevent-and-reverse-it.jpg",
         "causes": ["Consumption of certain foods and beverages (like coffee, tea, red wine)", "Tobacco use", "Poor dental hygiene", "Disease affecting enamel and dentin", "Certain medications", "Aging"],
         "description": "Teeth discoloration is characterized by changes in the color of your teeth. It can occur as a result of various factors including diet, oral hygiene, and certain medications.",
         "useful_tips": [
@@ -490,8 +506,8 @@
                     "Water"
                 ],
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://centralsun.com/wp-content/uploads/2022/12/aktiivsuse-pulber-centralsun-1-e1644948360623.jpg",
+                    "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
                 ],
                 "instructions": "Mix activated charcoal powder with water to create a paste, apply on teeth, gently brush for 2 minutes, rinse thoroughly."
             },
@@ -503,8 +519,8 @@
                     "1 teaspoon toothpaste"
                 ],
                 "images": [
-                    "path/to/oatmeal_bath_image1.jpg",
-                    "path/to/oatmeal_bath_image2.jpg"
+                    "https://thefoodtrends.com/wp-content/uploads/2023/01/banana-peel-tea.jpg",
+                    "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg"
                 ],
                 "instructions": "Rub the banana peel to get the inner content, add lemon juice and toothpaste, mix well, apply with a toothbrush, brush for 1-2 minutes, repeat 3-4 times a week."
             }
