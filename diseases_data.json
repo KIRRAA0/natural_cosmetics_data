@@ -2,6 +2,7 @@
     {
         "condition_name": "Eczema",
         "body_part": "Body",
+        "category_img": "https://media.istockphoto.com/id/1356348356/photo/studio-shot-of-an-unrecognizable-young-woman-touching-her-shoulder-while-posing-against-a.jpg?s=612x612&w=0&k=20&c=vO1yvqM4C9RqWkwUfCMojvNU_uRbp77_SAZ9bSDL20w=",
         "condition_img":"https://images.everydayhealth.com/images/skin-beauty/eczema/what-is-eczema-02-hand-eczema-722x406.jpg?sfvrsn=3b197278_5",
         "description": "Eczema, particularly atopic dermatitis, is a skin condition characterized by itchiness and dryness. It can be influenced by both environmental and genetic factors.",
         "useful_tips": [
@@ -46,6 +47,7 @@
     {
         "condition_name": "Foot Odor",
         "body_part": "Feet",
+        "category_img": "https://static.independent.co.uk/2021/05/14/09/27143927-1189d967-8023-4216-b19d-4a350c9bd161.jpg",
         "condition_img":"https://www.bonnysilver.us/cdn/shop/articles/5fd88c48c382e_1024x1024.jpg?v=1608036504",
         "description": "Common condition characterized by smelly feet, known as bromodosis.",
         "useful_tips": [
@@ -79,6 +81,7 @@
     {
         "condition_name": "Dark Circles",
         "body_part": "Eyes",
+        "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
         "condition_img":"https://images.ctfassets.net/u4vv676b8z52/47V4TT1U3ZzvkZPrwUi7xi/a94094548690c551a1a7e0e7fc464a0d/dark-circles-under-eyes-678x446.gif?fm=jpg&q=80",
         "description": "Darkening of the skin beneath both eyes.",
         "useful_tips": [
@@ -114,6 +117,7 @@
     {
         "condition_name": "Under-eye Bags",
         "body_part": "Eyes",
+        "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
         "condition_img":"https://ocalaeye.com/wp-content/uploads/2022/04/nancy-before.png",
         "description": "Mild puffiness or swelling beneath the eyes.",
         "useful_tips": [
@@ -156,6 +160,7 @@
     {
         "condition_name": "Active Acne",
         "body_part": "Face",
+        "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
         "condition_img":"https://radiantclinique.com/wp-content/uploads/2019/01/Active-acne.jpg",
         "description": "An inflammatory condition from oil and dead skin cells in hair follicles causing bacteria growth.",
         "causes": [
@@ -201,6 +206,7 @@
     {
         "condition_name": "Blackheads",
         "body_part": "Face",
+        "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
         "condition_img":"https://www.advanceddermatologyseattle.com/wp-content/uploads/2020/05/blackheads.jpg",
         "description": "Common acne type, develops from sebum and dead skin cells clogging pores.",
         "causes": ["Excess oil production", "Irritation of the hair follicles", "Build-up of Propionibacterium acnes bacteria", "Hormonal changes"],
@@ -242,6 +248,7 @@
     {
         "condition_name": "Whiteheads",
         "body_part": "Face",
+        "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
         "condition_img":"https://i.insider.com/59b68233f7f1f621008b4788?width=700",
         "description": "Small, flesh-colored papules on the skin, often found on oily areas of the face.",
         "causes": ["Clogged pores due to oil and dead skin", "Hormonal fluctuations", "Poor skin hygiene", "Use of certain cosmetics or oils"],
@@ -281,6 +288,7 @@
     {
         "condition_name": "Hair Loss",
         "body_part": "Hair",
+        "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
         "condition_img":"https://my.clevelandclinic.org/-/scassets/images/org/health/articles/24515-male-pattern-baldness",
         "causes": ["Genetic factors", "Hormonal changes (e.g., pregnancy, menopause)", "Medical conditions", "Nutritional deficiencies"],
         "description": "Hair loss is a common condition characterized by Progressive thinning of hair which occurs as people age. Some people experience circular bald patches on their beard eyebrows or scalp.",
@@ -318,6 +326,7 @@
     {
         "condition_name": "Dandruff",
         "body_part": "Hair",
+        "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
         "condition_img":"https://www.starhealth.in/blog/wp-content/uploads/2022/07/common-image-of-Dandruff.jpg",
         "causes": ["Dry skin", "Seborrheic dermatitis", "Not cleaning/scrubbing often enough", "Yeast-like fungus (Malassezia)", "Sensitivity to hair care products"],
         "description": "Dandruff is a chronic condition characterized by an excessive shedding of dead skin cells from the scalp.",
@@ -359,6 +368,7 @@
     {
         "condition_name": "Split Ends",
         "body_part": "Hair",
+        "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
         "condition_img":"https://static.wixstatic.com/media/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg/v1/fill/w_640,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ba2cd3_90bf0c4634b74d5bb86e966f8232489f~mv2.jpg",
         "causes": ["Excessive heat styling", "Chemical hair treatments", "Lack of trimming", "Environmental damage (e.g., sun exposure)"],
         "description": "Split ends are caused by damage to the protein structure of the hair, leading to loss of mechanical strength from the cuticle to the cortex.",
@@ -398,6 +408,7 @@
     {
         "condition_name": "Brittle Nails",
         "body_part": "Nails",
+        "category_img": "https://media.glamourmagazine.co.uk/photos/655788ec7c1d40d06618ecd4/4:3/w_1704,h_1278,c_limit/SHORT-NAIL-DESIGNS-111723-@elias.nails-L.jpg",
         "condition_img":"https://www.shutterstock.com/image-photo/flaky-bitten-brittle-nails-without-600nw-2305814343.jpg",
         "causes": ["Frequent exposure to water and chemicals", "Aging", "Nutritional deficiencies", "Long-term use of nail polish or acrylic nails", "Underlying health conditions like hypothyroidism"],
         "description": "A condition where nails become easily breakable due to various factors.Almost everyone can have brittle nails. It is a frequent problem that results in split, thin, or weak nails. It may arise from an underlying condition like anemia or thyroid problems or from problems with moisture.",
@@ -429,6 +440,7 @@
     {
         "condition_name": "Dark Lips",
         "body_part": "Lips",
+        "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
         "condition_img":"https://images.indianexpress.com/2019/11/dark-lips-1200.jpg?w=389",
         "causes": ["Excessive sun exposure", "Dehydration", "Use of low-quality cosmetics", "Smoking", "Caffeine"],
         "description": "Discoloration or darkening of lips due to various external or internal factors.",
@@ -459,6 +471,7 @@
     {
         "condition_name": "Chapped Lips",
         "body_part": "Lips",
+        "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
         "condition_img":"https://media.self.com/photos/65158d5e1c03b290a43f806d/4:3/w_2560%2Cc_limit/Chapped-lips.jpeg",
         "causes": ["Dry or cold weather", "Sun exposure", "Frequent licking of lips", "Dehydration", "Allergic reaction to lip care products"],
         "description": "Dry, cracked lips caused by various factors like weather or dehydration.",
@@ -489,6 +502,7 @@
     {
         "condition_name": "Teeth Discoloration",
         "body_part": "Teeth",
+        "category_img": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/white-teeth.jpg",
         "condition_img":"https://scottsdaledentalexcellence.com/wp-content/uploads/2021/01/why-teeth-discolor-and-how-to-prevent-and-reverse-it.jpg",
         "causes": ["Consumption of certain foods and beverages (like coffee, tea, red wine)", "Tobacco use", "Poor dental hygiene", "Disease affecting enamel and dentin", "Certain medications", "Aging"],
         "description": "Teeth discoloration is characterized by changes in the color of your teeth. It can occur as a result of various factors including diet, oral hygiene, and certain medications.",
