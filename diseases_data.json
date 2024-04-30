@@ -311,7 +311,7 @@
       ],
       "recipes": [
         {
-          "name": "The Egg White Recipe",
+          "recipe_name": "The Egg White Recipe",
           "ingredients": ["One egg white", "1 tablespoon of Honey"],
           "images": [
             "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
@@ -331,7 +331,7 @@
           ]
         },
         {
-          "name": "The Tea Tree Oil Recipe",
+          "recipe_name": "The Tea Tree Oil Recipe",
           "ingredients": [
             "2 drops of tea tree oil",
             "1 tablespoon of carrier oil",
@@ -377,7 +377,7 @@
       ],
       "recipes": [    
         {
-          "name": "The Potato Recipe",
+          "recipe_name": "The Potato Recipe",
           "ingredients": ["1 tablespoon of potato juice", "2 tablespoons of yogurt "],
           "images": [
             "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
@@ -401,7 +401,7 @@
           ]
         },
         {
-          "name": "The Yogurt Recipe",
+          "recipe_name": "The Yogurt Recipe",
           "ingredients": [
             "1 tablespoon of yogurt",
             "1 tablespoon of tomato paste"
