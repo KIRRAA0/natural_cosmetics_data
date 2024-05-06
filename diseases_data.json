@@ -983,6 +983,179 @@
           ]
         }
       ]
+    },
+    {
+        "condition_name": "Hyperpigmentation",
+        "body_part": "Face",
+        "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
+        "condition_img": "https://www.katekerrlondon.co.uk/wp-content/uploads/2022/04/Untitled-design-e1650621456363.png",
+        "causes": [
+            "Exposure to sunlight",
+            "Hormonal changes",
+            "Certain medications",
+            "Post-inflammatory hyperpigmentation",
+            "Genetic predisposition"
+        ],
+        "description": "Hyperpigmentation is a common harmless condition in which patches of skin become darker than the normal surrounding skin. This is caused by excess melanin, the brown pigment that produces normal skin color.",
+        "useful_tips": [
+            "Avoid direct exposure to sunlight.",
+            "Avoid touching the skin.",
+            "Apply sunblock or sunscreen.",
+            "Stay hydrated."
+        ],
+        "recipes": [
+            {
+                "recipe_name": "The Rice Water Recipe",
+                "ingredients": [
+                    "1 Green Tea Bag",
+                    "1 Cup of Rice Water"
+                ],
+                "images": ["https://www.thespruceeats.com/thmb/Pq1dH05CSZbep0zMc9Zs3luEsGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Herbal-tea-bag-582e1a743df78c6f6a29ef11.jpg",
+                            "https://www.thespruceeats.com/thmb/c0NitQJXppeQSH85bcnfJqgLcCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-make-jasmine-rice-3217510-step-02-5bd8c92d46e0fb0026eb1b90.jpg"],
+                "how_to_prepare": [
+                    "Wash rice first to remove dirt then discard water.",
+                    "Soak rice in water for 30 minutes.",
+                    "Strain rice water and transfer it to a clean spray bottle.",
+                    "Let a green tea bag brew in boiling water for 5 minutes.",
+                    "Remove the tea bag.",
+                    "Add a quarter cup of green tea to the rice water and mix the ingredients together."
+                ],
+                "how_to_use": [
+                    "Spray the mixture to a clean damp face or apply with a cotton pad.",
+                    "Keep the mixture for 30 minutes.",
+                    "Rinse it off with warm water.",
+                    "Can be used once in the morning and once at night.",
+                    "Store the spray bottle in the fridge for up to 1 week."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.tandfonline.com/doi/abs/10.1080/14764172.2017.1368666"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.academicstrive.com/PSARJ/PSARJ180020.pdf"
+                    }
+                ]
+            },
+            {
+                "recipe_name": "The Aloe Vera Recipe",
+                "ingredients": [
+                    "1 tablespoon of aloe vera gel",
+                    "1 cucumber"
+                ],
+                "images": ["https://lamav.com/cdn/shop/articles/imgonline-com-ua-CompressToSize-Qukza3eLFdcVA1G6.jpg?v=1686038415",
+                            "https://recipeland.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEyOTIsInB1ciI6ImJsb2JfaWQifX0=--ed65ddd7facc7b6294b9b104e4cfa58337dac105/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fbGltaXQiOlsxMjAwLDEyMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InN1YnNhbXBsZV9tb2RlIjoib24iLCJzdHJpcCI6dHJ1ZSwiaW50ZXJsYWNlIjp0cnVlLCJxdWFsaXR5Ijo2MH19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--5a3eca78d160e66d54692afbdfb68cce4a255017/cucumber-english-sliced.jpg"],
+                "how_to_prepare": [
+                    "Add the aloe vera to a blender.",
+                    "Add the cucumber to the blender.",
+                    "Blend both ingredients well till forming a paste.",
+                    "Empty the mixture in a bowl."
+                ],
+                "how_to_use": [
+                    "Apply the mask on the face with clean fingertips.",
+                    "Leave for 20 minutes.",
+                    "Rinse off with cool water and pat the face dry.",
+                    "Can be used once a week."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://link.springer.com/article/10.1186/s43094-021-00284-6"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://odontoanamaria.com/artigos/pepino4.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "condition_name": "Wide Pores",
+        "body_part": "Face",
+        "category_img": "https://media.istockphoto.com/id/1309405105/photo/beauty-portrait-of-young-brunette.jpg?s=612x612&w=0&k=20&c=qTMb5hb4Hu5Q9i_kIBojDf3HRrBIph7HyKDzU4IJ9LI=",
+        "condition_img": "https://static.wixstatic.com/media/243e14_f2e5c06f2f5c4b82a0192904510a93a9~mv2.jpg/v1/fill/w_640,h_428,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/243e14_f2e5c06f2f5c4b82a0192904510a93a9~mv2.jpg",
+        "causes": [
+            "Oil production from the pores",
+            "Loss of firmness in the skin due to aging",
+            "Clogged pores"
+        ],
+        "description": "Wide pores are the ones that can be seen without a microscope. They can look like small dots on the skin on the face.",
+        "useful_tips": [
+            "Wash the face two or three times a day.",
+            "Use exfoliating toners.",
+            "Check the products for ingredients that can clog pores through Biba's pore clogger checker.",
+            "Use an ice roller.",
+            "Do facial masks weekly."
+        ],
+        "recipes": [
+            {
+                "recipe_name": "The Cucumber Recipe",
+                "ingredients": [
+                    "Half a cucumber",
+                    "1 egg white"
+                ],
+                "images": ["https://www.simplyrecipes.com/thmb/29GFeBZVaGjvvYFYGd-fM9IG77o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Waxy-Cucumbers-LEAD-f46dbda3d589434ab63a3b50b7cbd94c.jpg",
+                            "https://cdn11.bigcommerce.com/s-21ntmrkfhf/images/stencil/1280x1280/products/14440/3761/Pace-Farm-Egg-white-liquid-protein__65237.1609106985.png?c=2"],
+                "how_to_prepare": [
+                    "Cut the cucumber into small circles.",
+                    "Add the cucumber to a blender.",
+                    "Add the egg white to the blender.",
+                    "Blend both ingredients.",
+                    "Add the mixture into a bowl.",
+                    "Store for 20 minutes in the refrigerator before using."
+                ],
+                "how_to_use": [
+                    "Apply the mixture to the face.",
+                    "Leave for 20 minutes.",
+                    "Rinse off with cool water.",
+                    "Moisturize the face with a suitable moisturizer."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0367326X12002791"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.researchgate.net/publication/340874478_ACNECAUSES_AND_AMAZING_REMEDIAL_MEASURES_FOR_ACNE"
+                    }
+                ]
+            },
+            {
+                "recipe_name": "The Rosewater Recipe",
+                "ingredients": [
+                    "2 tablespoons of rose water",
+                    "1 green teabag"
+                ],
+                "images": ["https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/320/320216/rose-water-in-small-glass-bottle-next-to-rose-flower.jpg?w=1155&h=1541",
+                            "https://bohtea.com/wp-content/uploads/2019/11/Pure-Green-Tea-Teabag.jpg"],
+                "how_to_prepare": [
+                    "Add the rose water to a clean spray bottle.",
+                    "Brew the green teabag for 5 minutes.",
+                    "Remove the green teabag.",
+                    "Add the green tea water after it cooled down to the bottle.",
+                    "Keep the toner in the refrigerator for up to 1 week."
+                ],
+                "how_to_use": [
+                    "Apply the mask to face and neck till it dries.",
+                    "Leave for 15 minutes.",
+                    "Rinse the mask with cool water."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/dcf05b3aa001b275bb0ef65b8b236dd7.pdf"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.mdpi.com/1420-3049/24/23/4277"
+                    }
+                ],
+                "caution": "Ensure there is no rose water allergy, perform a patch test"
+            }
+        ]
     }
-  ]
+]
   
