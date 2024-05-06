@@ -1,56 +1,86 @@
 [
     {
-      "condition_name": "Eczema",
-      "body_part": "Body",
-      "category_img": "https://media.istockphoto.com/id/1356348356/photo/studio-shot-of-an-unrecognizable-young-woman-touching-her-shoulder-while-posing-against-a.jpg?s=612x612&w=0&k=20&c=vO1yvqM4C9RqWkwUfCMojvNU_uRbp77_SAZ9bSDL20w=",
-      "condition_img": "https://images.everydayhealth.com/images/skin-beauty/eczema/what-is-eczema-02-hand-eczema-722x406.jpg?sfvrsn=3b197278_5",
-      "description": "Eczema, particularly atopic dermatitis, is a skin condition characterized by itchiness and dryness. It can be influenced by both environmental and genetic factors.",
-      "useful_tips": [
-        "Regularly moisturize",
-        "Use warm water for bathing",
-        "Stay hydrated",
-        "Wear cotton clothing",
-        "Manage stress",
-        "Avoid allergens"
-      ],
-      "recipes": [
-        {
-          "recipe_name": "Colloidal Oatmeal Bath",
-          "ingredients": ["1-2 cups of oats", "Coconut oil"],
-          "images": [
-            "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/09/23/rolled-oats-linen-wood-surface-white-bowl.jpg.rend.hgtvcom.1280.960.suffix/1632429307666.jpeg",
-            "https://www.treehugger.com/thmb/OzqfQuQx_EFC4vwLeJ9jfdf9C20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coconut-oil-and-coconuts--palm-branches-close-up-1314573256-db8f4eab6c77432ca4470672ee6b4ecf.jpg"
-          ],
-          "how_to_prepare": [
-            "Grind 1 cup of oats in a blender to a really fine powder.",
-            "Fill the bathtub with warm water (avoid hot water as it can aggravate the inflamed skin).",
-            "Mix the finely grinded oats with the warm water ( 1 cup of oats or more depending on the size of your bathtub) using your hand until the water is milky and feels silky."
-          ],
-          "how_to_use": [
-            "Soak your body in the oatmeal bath for 10-15 minutes to relieve eczema itchiness and moisturize your skin then wash your body with lukewarm water and dry it. Apply coconut oil to areas of eczema to moisturize the skin and retain moisture. "
-          ],
-          "links": [
+        "condition_name": "Eczema",
+        "body_part": "Body",
+        "category_img": "https://media.istockphoto.com/id/1356348356/photo/studio-shot-of-an-unrecognizable-young-woman-touching-her-shoulder-while-posing-against-a.jpg?s=612x612&w=0&k=20&c=vO1yvqM4C9RqWkwUfCMojvNU_uRbp77_SAZ9bSDL20w=",
+        "condition_img": "https://images.everydayhealth.com/images/skin-beauty/eczema/what-is-eczema-02-hand-eczema-722x406.jpg?sfvrsn=3b197278_5",
+        "description": "There are seven types of eczema but the most common type is atopic dermatitis. 'Atopic dermatitis' or 'atopic eczema'. It is a chronic non-contagious condition that occasionally flares up. Researchers are aware that a combination of environmental stimuli and genetics leads to the development of eczema, even though the exact cause of the condition is unknown. A lot of eczema sufferers also report having food allergies, allergic asthma, and hay fever. It can occur due to an overactive immune system that makes the skin barrier dry, itchy and irritating.",
+        "useful_tips": [
+            "Moisturize your skin regularly or when your skin becomes dry.",
+            "Take baths or showers with warm, not hot, water.",
+            "Stay hydrated and drink at least eight glasses of water each day.",
+            "Wear loose clothes made of cotton and other natural materials. Wash new clothing before wearing it and avoid wool or synthetic fibers.",
+            "Manage your stress and emotional triggers.",
+            "Avoid allergens and irritants."
+        ],
+        "recipes": [
             {
-              "link_text": "Click me",
-              "url": "https://www.verywellhealth.com/oatmeal-bath-to-treat-eczema-5192086"
+                "recipe_name": "The Colloidal Oatmeal Bath Recipe",
+                "ingredients": ["Water", "1-2 cups of oats", "Coconut oil"],
+                "images": [ "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/09/23/rolled-oats-linen-wood-surface-white-bowl.jpg.rend.hgtvcom.1280.960.suffix/1632429307666.jpeg",
+                "https://www.treehugger.com/thmb/OzqfQuQx_EFC4vwLeJ9jfdf9C20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coconut-oil-and-coconuts--palm-branches-close-up-1314573256-db8f4eab6c77432ca4470672ee6b4ecf.jpg"
+                ],
+                "how_to_prepare": [
+                    "Grind 1 cup of oats in a blender to a really fine powder.",
+                    "Fill the bathtub with warm water (avoid hot water as it can aggravate the inflamed skin).",
+                    "Mix the finely grinded oats with the warm water (1 cup of oats or more depending on the size of your bathtub) using your hand until the water is milky and feels silky."
+                ],
+                "how_to_use": [
+                    "Soak your body in the oatmeal bath for 10-15 minutes to relieve eczema itchiness and moisturize your skin, then wash your body with lukewarm water and dry it. Apply coconut oil to areas of eczema to moisturize the skin and retain moisture."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://web.archive.org/web/20200321033951id_/http://www.beauty-review.nl/wp-content/uploads/2015/02/Colloidal-oatmeal-formulations-as-adjunct-treatments-in-atopic-dermatitis.pdf"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://jddonline.com/articles/effects-of-colloidal-oatmeal-topical-atopic-dermatitis-cream-on-skin-microbiome-and-skin-barrier-pro-S1545961620P0524X/"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8625765/"
+                    }
+                ]
             },
             {
-              "link_text": "Click me",
-              "url": "https://web.archive.org/web/20200321033951id_/http://www.beauty-review.nl/wp-content/uploads/2015/02/Colloidal-oatmeal-formulations-as-adjunct-treatments-in-atopic-dermatitis.pdf"
-            },
-            {
-              "link_text": "Click me",
-              "url": "https://jddonline.com/articles/effects-of-colloidal-oatmeal-topical-atopic-dermatitis-cream-on-skin-microbiome-and-skin-barrier-pro-S1545961620P0524X/"
-            },
-            {
-              "link_text": "Click me",
-              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8625765/"
+                "recipe_name": "The Soothing Oatmeal Cream Recipe",
+                "ingredients": ["½ cup of oatmeal", "¼ cup of coconut oil", "2 tablespoons of honey", "10 drops of lavender essential oil (optional)"],
+                "images": ["https://images.immediate.co.uk/production/volatile/sites/30/2023/08/Porridge-oats-d09fae8.jpg?quality=90&resize=440,400",
+                            "https://media6.ppl-media.com/mediafiles/blogs/shutterstock_216984226_00ef5c2a26.jpg",
+                            "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2024/01/30/wooden-honey-dipper-dripping-into-jar-of-honey.jpg.rend.hgtvcom.1280.960.suffix/1706637867946.jpeg",
+                            "https://media6.ppl-media.com/mediafiles/blogs/lavender_essential_oil_a17a0b9b37.jpeg"
+                        ],
+                "how_to_prepare": [
+                    "Add the oatmeal to a bowl (it can be grinded to powder if desired) then add the coconut oil and honey and mix the ingredients well.",
+                    "Add the lavender oil (optional) and mix well."
+                ],
+                "how_to_use": [
+                    "Apply small amounts of the homemade cream to the affected areas and leave it on for a few minutes then rinse with lukewarm water and pat the skin dry gently.",
+                    "Store the homemade cream in an airtight container and keep it in a cool, dry place."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://web.archive.org/web/20200321033951id_/http://www.beauty-review.nl/wp-content/uploads/2015/02/Colloidal-oatmeal-formulations-as-adjunct-treatments-in-atopic-dermatitis.pdf"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://phcogrev.com/sites/default/files/PhcogRev_2019_13_25_24.pdf"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5661189/"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9357533/"
+                    }
+                ]
             }
-          ]
-        }
-      ],
-      "causes": ["Genetic factors", "Environmental triggers"]
+        ]
     },
+    
   
     {
       "condition_name": "Foot Odor",
@@ -1152,10 +1182,174 @@
                         "link_text": "Read More",
                         "url": "https://www.mdpi.com/1420-3049/24/23/4277"
                     }
+                ]
+            }
+        ]
+    },
+    {
+        "condition_name": "Dry Skin",
+        "body_part": "Body",
+        "category_img": "https://media.istockphoto.com/id/1356348356/photo/studio-shot-of-an-unrecognizable-young-woman-touching-her-shoulder-while-posing-against-a.jpg?s=612x612&w=0&k=20&c=vO1yvqM4C9RqWkwUfCMojvNU_uRbp77_SAZ9bSDL20w=",
+        "condition_img": "https://skinq.com/cdn/shop/articles/Blog_Cover-623645.jpg?v=1698401144",
+        "description": "Dry skin or xeroderma is the skin that lacks enough moisture content in it to keep it feeling soft. Dry skin feels like rough patches of the skin that can flake or look scaly.",
+        "causes": [
+            "It can occur due to many factors such as:",
+            "Age, as throughout aging, the moisture producing oil glands present in the skin dry.",
+            "Climate, as the temperature of the surrounding environment can affect the skin hydration, for example, desert-like and cold climates can cause dry skin. Dry skin can occur throughout the year but it’s worse during winter."
+        ],
+        "recipes": [
+            {
+                "recipe_name": "The Oatmeal Honey Mask Recipe",
+                "ingredients": [
+                    "2 tablespoons of oats",
+                    "1 tablespoon of honey",
+                    "½ a tablespoon of water"
                 ],
-                "caution": "Ensure there is no rose water allergy, perform a patch test"
+                "images": ["https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQE17xTH_zLtzlZv_Md7KdHwGrQ3lyIJjqXANJ9yKQfza6EFI1GP-MGofOWd3mYKoz0yMG9F12PL4BbKqo",
+                            "https://www.tasteofhome.com/wp-content/uploads/2024/02/GettyImages-1684517871-does-honey-expire-JVedit.jpg",
+                            "https://previews.123rf.com/images/tuk69tuk/tuk69tuk1602/tuk69tuk160200597/52291068-water-drop-in-spoon.jpg"],
+                "how_to_prepare": [
+                    "Mix all the ingredients well together.",
+                    "Warm the mixture gently until it's homogeneous."
+                ],
+                "how_to_use": [
+                    "Apply the hydrating mask after it cools and leave it on the skin for 15-20 minutes.",
+                    "Wash the mask off gently.",
+                    "Apply a moisturizer.",
+                    "Repeat the recipe 3 times a week."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/25607907/"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jocd.12058"
+                    }
+                ]
+            },
+            {
+                "recipe_name": "The Glycerin Rose Water Recipe",
+                "ingredients": [
+                    "¼ teaspoon of glycerin",
+                    "¼ teaspoon of rose water"
+                ],
+                "images": [],
+                "how_to_prepare": [
+                    "Mix all the ingredients well together, rose water can be increased to create a thin paste that can be applied easily to the skin."
+                ],
+                "how_to_use": [
+                    "Apply the mixture to the dry skin and leave it until it’s completely absorbed.",
+                    "Repeat when needed."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://onlinelibrary.wiley.com/doi/full/10.1046/j.1467-2494.2001.00060.x"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.atlantis-press.com/proceedings/icemaess-18/25906326"
+                    }
+                ]
+            }
+        ],
+        "useful_tips": [
+            "Avoid any harsh skin care products.",
+            "Stay hydrated.",
+            "Invest in a good moisturizer.",
+            "Avoid hot showers.",
+            "Avoid irritating clothes and harsh detergents."
+        ]
+    },
+    {
+        "condition_name": "Dead Skin",
+        "body_part": "Body",
+        "category_img": "https://media.istockphoto.com/id/1356348356/photo/studio-shot-of-an-unrecognizable-young-woman-touching-her-shoulder-while-posing-against-a.jpg?s=612x612&w=0&k=20&c=vO1yvqM4C9RqWkwUfCMojvNU_uRbp77_SAZ9bSDL20w=",
+        "condition_img": "https://vedix.com/cdn/shop/articles/Evidence-Based_587e51aa-f90c-4688-9776-2d50bb38ecb0_1024x400.jpg?v=1618918368",
+        "description": "Dead skin is a part of the natural process of the human body's renewal, it can appear as dry, rough or flaky patches of the skin. In severe cases, dead skin can accumulate to create calluses.",
+        "causes": [
+            "It can occur due to many factors such as:",
+            "Aging, as skin renewal slows down with aging causing the slower shedding of the dead skin cells.",
+            "Inadequate or irregular cleansing.",
+            "Misuse of moisturizers can cause trapping of dead skin cells.",
+            "Sun exposure and dry weather."
+        ],
+        "useful_tips": [
+            "Exfoliate before body hair removal.",
+            "Avoid exfoliating on the morning of an important event, or even the night before.",
+            "Avoid exfoliating damaged or sunburnt skin.",
+            "Use sunscreen and good quality moisturizer.",
+            "Use loofahs and exfoliating mitts."
+        ],
+        "recipes": [
+            {
+                "recipe_name": "The Coffee Scrub",
+                "ingredients": [
+                    "½ cup of coffee grounds",
+                    "2 tablespoons of hot water",
+                    "1 tablespoon of warm coconut oil"
+                ],
+                "images": ["https://www.marketsatshrewsbury.com/wp-content/uploads/2019/02/coffee_varieties-min.jpg",
+                            "https://www.healthkart.com/connect/wp-content/uploads/2022/11/900x500_banner_HK-hot-water-benefits.png",
+                            "https://images.moneycontrol.com/static-mcnews/2023/08/Health-benefits-of-Coconut-oil-770x433.jpg?impolicy=website&width=770&height=431"],
+                "how_to_prepare": [
+                    "Add the coffee grounds and the hot water into a bowl and mix them well with a spoon.",
+                    "Add the coconut oil to the mixture and mix well.",
+                    "Add more coffee or oil to reach the consistency you are satisfied with."
+                ],
+                "how_to_use": [
+                    "Apply the scrub to the skin using hands or a brush.",
+                    "Massage the scrub in gentle circular motions.",
+                    "Rinse with water and moisturize the skin after.",
+                    "Repeat weekly or when needed."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jfpe.13067"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://phcogrev.com/sites/default/files/PhcogRev_2019_13_25_24.pdf"
+                    }
+                ]
+            },
+            {
+                "recipe_name": "The Honey-Sugar Scrub",
+                "ingredients": [
+                    "½ cup of brown sugar",
+                    "2 tablespoons of honey",
+                    "¼ cup of melted coconut oil"
+                ],
+                "images": ["https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2024-01-how-to-make-brown-sugar%2Fhow-to-make-brown-sugar-008",
+                            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/04/honey-1296x728-header.jpg?w=1155&h=1528",
+                            "https://healthiersteps.com/wp-content/uploads/2022/01/coconut-oil.jpeg"],
+                "how_to_prepare": [
+                    "Add the brown sugar, honey, and coconut oil into a bowl and mix them well. Add more coconut oil if the scrub is too crumbly and mix until the required consistency is reached."
+                ],
+                "how_to_use": [
+                    "Apply the scrub to the skin using hands or a brush.",
+                    "Massage the scrub in gentle circular motions.",
+                    "Rinse with water and moisturize the skin after.",
+                    "Repeat weekly or when needed."
+                ],
+                "links": [
+                    {
+                        "link_text": "Read More",
+                        "url": "https://link.springer.com/chapter/10.1007/978-981-15-6663-9_12"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5661189/"
+                    },
+                    {
+                        "link_text": "Read More",
+                        "url": "https://phcogrev.com/sites/default/files/PhcogRev_2019_13_25_24.pdf"
+                    }
+                ]
             }
         ]
     }
 ]
-  
