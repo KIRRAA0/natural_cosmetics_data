@@ -1235,12 +1235,13 @@
                     "¼ teaspoon of glycerin",
                     "¼ teaspoon of rose water"
                 ],
-                "images": [],
+                "images": ["https://www.gaiagarden.com/wp-content/uploads/2019/05/Glyercine.jpg",
+                            "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/320/320216/rose-water-in-small-glass-bottle-next-to-rose-flower.jpg?w=1155&h=1541"],
                 "how_to_prepare": [
                     "Mix all the ingredients well together, rose water can be increased to create a thin paste that can be applied easily to the skin."
                 ],
                 "how_to_use": [
-                    "Apply the mixture to the dry skin and leave it until it’s completely absorbed.",
+                    "Apply the mixture to the dry skin and leave it until it's completely absorbed.",
                     "Repeat when needed."
                 ],
                 "links": [
