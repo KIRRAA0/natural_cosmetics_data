@@ -106,7 +106,9 @@
           ],
           "images": [
             "https://cdn.shopify.com/s/files/1/0648/1955/files/oil_from_lavender.jpg",
-            "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2023/07/iStock-1352688717.jpg"
+            "https://www.thespruceeats.com/thmb/4Uxr_CKC7aR-UhEicIvVqLaiO0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-488636063-5ab2dbd8a8ff48049cfd36e8ad841ae5.jpg",
+            "https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321137/baking-soda-on-a-spoon-which-may-be-used-for-acne.jpg",
+            "https://m.media-amazon.com/images/I/61lnohOQOsL._AC_UF894,1000_QL80_DpWeblab_.jpg"
           ],
           "how_to_prepare": [
               "Fill a foot basin with warm or cold water.",
@@ -228,14 +230,13 @@
       "body_part": "Eyes",
       "category_img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/7349/7ae782c0-24f9-4128-97a9-8b64432bce76.jpg",
       "condition_img": "https://ocalaeye.com/wp-content/uploads/2022/04/nancy-before.png",
-      "description": "Mild puffiness or swelling beneath the eyes.",
+      "description": "Mild puffiness or swelling beneath the eyes, often resulting from natural aging processes or fluid retention.",
       "useful_tips": [
-        "Use cool compresses",
-        "Reduce fluid intake before bedtime",
-        "Avoid smoking",
-        "Get adequate sleep",
-        "Sleep with elevated head",
-        "Reduce allergy symptoms"
+        "Use a cool compress",
+        "Cut down on fluids before bedtime and limit salt intake to reduce fluid retention",
+        "Reduce smoking",
+        "Get enough sleep",
+        "Sleep with the head slightly raised to help prevent fluid accumulation around the eyes"
       ],
       "recipes": [
         {
@@ -245,16 +246,27 @@
             "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2445929.png",
             "https://articles-1mg.gumlet.io/articles/wp-content/uploads/2016/05/slides-cucumbers1-2.jpg?compress=true&quality=80&w=640&dpr=2.6"
           ],
-          "how_to_prepare":["Wash a fresh cold cucumber well then cut it into thin slices."],
-          "how_to_use":["Gently put two cucumber slices on both eyes and leave them on  until they warm up, then turn them over and leave them on until they warm up. Remove the slices and wash your face."],
-          "links": [
+          "how_to_prepare": [
+            "Wash a fresh cucumber well then cut it into thin slices",
+            "Put the cucumber slices in the refrigerator and let them cool"
+          ],
+          "how_to_use": [
+            "Gently place two cucumber slices on the eyes and leave them on until they warm up, then turn them over and leave them on until they warm up again",
+            "Remove the slices and wash the face",
+            "Repeat the recipe when needed"
+          ],
+            "links": [
             {
-              "link_text": "Click me",
+              "link_text": "Medical News Today",
               "url": "https://www.medicalnewstoday.com/articles/cucumbers-on-eyes"
             },
             {
-              "link_text": "Click me",
+              "link_text": "Google Books",
               "url": "https://books.google.com.eg/books?hl=en&lr=&id=y7ZaEAAAQBAJ&oi=fnd&pg=PA39&dq=info:Hl4XmO6ztWcJ:scholar.google.com/&ots=osE7atV5cz&sig=3Wr1vDjiTYvmAko8A167CUa02aA&redir_esc=y#v=onepage&q&f=false"
+            },
+            {
+              "link_text": "CloudFront Document",
+              "url": "https://d1wqtxts1xzle7.cloudfront.net/70689979/paper_6_-libre.pdf?1632998937=&response-content-disposition=inline%3B+filename%3DEffective_Home_Remedies_that_Provide_Qui.pdf&Expires=1710605018&Signature=HJi6kUASHCmsrN~uFuzk1WoVLokOrMwk8~kqlzJzjcAw6yPYLhukM9JjKVW-Ta3Gr9UWSr9UqcOdO5dJB2tnqDJax7o-mRbMni9WUhldQtPXBqw0wlxUOOgipMmdnVs6HLiD4d8qw7Yu2r7nc0xLJQ-NX49TVl2NrUzCO2QdWHj~-A8ubDjnEa~27iyTVNBNQ~QETTYpD6NE5TiJ-r4Wyl7FdbIMOXPV95GFNmDtycMC8HI0xkksqN~-EbxAlwXthhvBmJfQTxgFspuWO9U63ysbmMa36vaRGwgpeUXXo7DuRboZ-QqXywKmr6ZRYNy7~56npO3KvTcKELyn1ofYOw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
             }
           ]
         },
@@ -269,19 +281,19 @@
           "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."],
           "links": [
             {
-              "link_text": "Click me",
+              "link_text": "Hopkins Medicine",
               "url": "https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/how-to-get-rid-of-bags-under-your-eyes"
             },
             {
-              "link_text": "Click me",
+              "link_text": "ResearchGate - Home Remedies",
               "url": "https://www.researchgate.net/profile/Naga-Harika-Korrapati/publication/354871368_Effective_Home_Remedies_that_Provide_Quick_Relief_for_Puffy_Eyes/links/61520216d2ebba7be75221e6/Effective-Home-Remedies-that-Provide-Quick-Relief-for-Puffy-Eyes.pdf "
             }
           ]
         }
       ],
       "causes": [
-        "Aging leading to muscle weakening and tissue deterioration around eyes",
-        "Fat movement to the lower eyelids"
+        "Aging and weakening of the muscles and tissues around the eyes",
+        "Fat displacement leading to puffiness"
       ]
     },
     {
@@ -399,7 +411,9 @@
           ],
           "images": [
             "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
-            "https://www.purodem.com/wp-content/uploads/2022/11/carrier-oils-1.webp"
+            "https://www.purodem.com/wp-content/uploads/2022/11/carrier-oils-1.webp",
+            "https://asianbeautyessentials.com/cdn/shop/articles/Tea_tree_oil_bcdc30bf-9c43-4c5f-95cd-edec2db282aa_800x.jpg?v=1687611037",
+            "https://5.imimg.com/data5/CG/PU/ZW/SELLER-82348657/fine-sugar.png"
           ],
           "how_to_prepare":["In a bowl add the tea tree oil with the carrier oil and mix both well","Add the honey and the sugar to the bowl","Mix well"],
           "how_to_use":["Steam the face for 10 minutes by boiling water in a bowl then bending over it with a towel covering the head.","Apply the mixture to the nose","Massage gently in a circular motion for 5 minutes","Rinse off with cool water"],
@@ -439,8 +453,8 @@
           "recipe_name": "The Potato Recipe",
           "ingredients": ["1 tablespoon of potato juice", "2 tablespoons of yogurt "],
           "images": [
-            "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
-            "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
+            "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-98512779/98512779.jpg",
+            "https://littlespoonfarm.com/wp-content/uploads/2023/01/homemade-raw-yogurt-recipe.jpg"
           ],
           "how_to_prepare":["Peel the potato and blend it in a blender or grate it","Extract its juice","Add the juice in a bowl","Add the honey in the bowl","Mix well"],
           "how_to_use":["Wash the face well","Apply the mask on the face","Leave for 15 minutes","Wash with warm water"],
@@ -466,8 +480,8 @@
             "1 tablespoon of tomato paste"
           ],
           "images": [
-            "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2023/07/iStock-1352688717.jpg",
-            "https://content.health.harvard.edu/wp-content/uploads/2023/07/b8a1309a-ba53-48c7-bca3-9c36aab2338a.jpg"
+            "https://d2pi0n2fm836iz.cloudfront.net/320092/0130202202263861f5f75e79e48.png",
+            "https://littlespoonfarm.com/wp-content/uploads/2023/01/homemade-raw-yogurt-recipe.jpg"
           ],
           "how_to_prepare":["Blend a tomato in a blender to form paste","Add the paste to a bowl","Add the yogurt to the bowl","Mix well"],
           "how_to_use":["On damp skin, apply the mask on the face","Leave for 20 minutes","Gently rub it off with cool water","This mask can be used twice a week"],
