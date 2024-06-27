@@ -18,7 +18,7 @@
           {
               "recipe_name": "The Colloidal Oatmeal Bath Recipe",
               "ingredients": ["Water", "1-2 cups of oats", "Coconut oil"],
-              "images": [ "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/09/23/rolled-oats-linen-wood-surface-white-bowl.jpg.rend.hgtvcom.1280.960.suffix/1632429307666.jpeg",
+              "images": [ "https://images.immediate.co.uk/production/volatile/sites/30/2023/08/Porridge-oats-d09fae8.jpg?quality=90&resize=440,400",
               "https://www.treehugger.com/thmb/OzqfQuQx_EFC4vwLeJ9jfdf9C20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coconut-oil-and-coconuts--palm-branches-close-up-1314573256-db8f4eab6c77432ca4470672ee6b4ecf.jpg"
               ],
               "how_to_prepare": [
@@ -49,7 +49,7 @@
               "ingredients": ["½ cup of oatmeal", "¼ cup of coconut oil", "2 tablespoons of honey", "10 drops of lavender essential oil (optional)"],
               "images": ["https://images.immediate.co.uk/production/volatile/sites/30/2023/08/Porridge-oats-d09fae8.jpg?quality=90&resize=440,400",
                           "https://media6.ppl-media.com/mediafiles/blogs/shutterstock_216984226_00ef5c2a26.jpg",
-                          "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2024/01/30/wooden-honey-dipper-dripping-into-jar-of-honey.jpg.rend.hgtvcom.1280.960.suffix/1706637867946.jpeg",
+                          "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
                           "https://media6.ppl-media.com/mediafiles/blogs/lavender_essential_oil_a17a0b9b37.jpeg"
                       ],
               "how_to_prepare": [
@@ -171,7 +171,7 @@
     ],
     "recipes": [
       {
-        "recipe_name": "Green Tea Treatment",
+        "recipe_name": "The Green Tea Recipe",
         "images": [
             "https://images.ctfassets.net/e8bhhtr91vp3/mtK66uB4RANFaeshtDSz4/13d2f7ade2aea7f5ee25dc027748351c/What_is_green_tea.webp?w=1600&q=60",
             "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
@@ -532,8 +532,8 @@
         "recipe_name": "The Onion and Garlic Recipe",
         "ingredients": ["2 onions", "5 garlic cloves"],
         "images": [
-          "https://spiceworldinc.com/wp-content/uploads/2022/06/SW-Onion-Health-Hero.jpg",
-          "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/05/25/cloves-of-garlic-in-bowl.jpg.rend.hgtvcom.1280.1280.suffix/1621974631234.jpeg"
+          "https://img.freepik.com/premium-photo/red-onion-cutting-board-kitchen_505557-10478.jpg",
+          "https://media.istockphoto.com/id/1340230644/photo/closeup-of-garlic-bulbs-on-wooden-table-with-garlics-blur-background-a-set-of-fresh-garlic-on.jpg?s=612x612&w=0&k=20&c=ViGupj8zL6dDwWKe79V5R2J_NyUqIMLpHduY1e58LGM="
         ],
         "how_to_prepare":["Blend 2 onion and 5 garlic cloves together.","Strain the mixture to obtain the juice."],
         "how_to_use":["Apply the juice and message the scalp.","Leave it on the scalp for at least 10 minutes.","Rinse it off with gentle shampoo."],
@@ -556,7 +556,7 @@
           "1 cup of milk"
         ],
         "images":[
-            "https://m.media-amazon.com/images/I/610DOeFdZjL._AC_UF350,350_QL80_.jpg",
+            "https://www.liquoriceheaven.com/cdn/shop/collections/liquorice-cooking-ingredients-liquorice-powder-liquorice-granules-liquorice-pellets-liquorice-root.jpg?v=1665487250",
             "https://www.satvikstore.in/cdn/shop/files/aaaaadaasaaadw-min-min.jpg?v=1682680704",
             "https://www.allrecipes.com/thmb/TgXszUn8XHUTe19kOwlyGQ4ZjyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-87984584-2-2000-b40af34c16fd4bed815f1e279592b172.jpg"
         ],
@@ -596,7 +596,8 @@
         "recipe_name": "The Lemon and Ginger Recipe",
         "images": [
           "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
-          "https://i0.wp.com/www.savourous.com/wp-content/uploads/2021/02/ginger-juice8-book.jpg?fit=1287%2C1286&ssl=1"
+          "https://i0.wp.com/www.savourous.com/wp-content/uploads/2021/02/ginger-juice8-book.jpg?fit=1287%2C1286&ssl=1",
+          "https://media.istockphoto.com/id/464433694/photo/olive-oil.jpg?s=612x612&w=0&k=20&c=2JGwS4mtdJngCwgdnZfd7PS1l2r5wtzfva2K8zGRBYY="
         ],
         "ingredients": [
           "1 tablespoon lemon juice",
@@ -620,7 +621,8 @@
         "recipe_name": "The Fenugreek and Hibiscus Recipe",
         "images": [
           "https://5.imimg.com/data5/SELLER/Default/2021/1/FM/LV/WK/5003318/fenugreek-seeds-powder-500x500.jpeg",
-          "https://recipes.net/wp-content/uploads/2024/01/how-to-grind-hibiscus-1704356290.jpg"
+          "https://recipes.net/wp-content/uploads/2024/01/how-to-grind-hibiscus-1704356290.jpg",
+          "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg"
         ],
         "ingredients": [
           "1 tablespoon powdered fenugreek seeds",
@@ -720,7 +722,8 @@
         "recipe_name": "Olive Oil Soak",
         "images": [
           "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953",
-          "https://5.imimg.com/data5/VG/RQ/MY-37527802/organic-peeled-garlic-cloves.png"
+          "https://5.imimg.com/data5/VG/RQ/MY-37527802/organic-peeled-garlic-cloves.png",
+          "https://media.istockphoto.com/id/1345935119/photo/aloe-or-aloe-vera-fresh-leaves-and-slices-on-white-background.jpg?s=612x612&w=0&k=20&c=eIDRIhnKA8MaNQ9YZz4y2klBwFCuigIoCMH7vwQjaKg="
         ],
         "ingredients": [
           "2 tablespoon Olive oil",
@@ -818,7 +821,7 @@
         "recipe_name": "The Tea Tree Oil Recipe",
         "images": [
           "https://images.squarespace-cdn.com/content/v1/55240cbae4b0fe3c2af506f6/1596834428190-MMX14QNV6HGQR9T8MHM5/Benefits+of+Tea+Tree+Essential+Oil+for+Skin%2C+Hair+and+Health?format=500w",
-          "https://www.shutterstock.com/image-photo/used-cotton-wool-isolate-on-260nw-1258561150.jpg",
+          "https://media.istockphoto.com/id/1333742146/photo/tree-branch-with-cotton-flowers-on-white-background.jpg?s=612x612&w=0&k=20&c=AuiO_rCmM9NIAMMOuXgo3Xm9gJT67SgKGh0iNkbJ8PA=",
           "https://www.womansworld.com/wp-content/uploads/2021/02/oil.jpg?w=953"
         ],
         "ingredients": [
@@ -864,10 +867,12 @@
     ],
     "recipes": [
       {
-        "recipe_name": "Lemon Lip Scrub",
+        "recipe_name": "Lemon Lip Scrub Recipe",
         "images": [
             "https://hips.hearstapps.com/hmg-prod/images/lemon-juice-royalty-free-image-510180395-1531432390.jpg?crop=1.00xw:0.717xh;0,0.157xh&resize=640:*",
-            "https://cdn.britannica.com/73/239573-131-63075292/sugar-cubes.jpg"
+            "https://cdn.britannica.com/73/239573-131-63075292/sugar-cubes.jpg",
+            "https://media.istockphoto.com/id/464433694/photo/olive-oil.jpg?s=612x612&w=0&k=20&c=2JGwS4mtdJngCwgdnZfd7PS1l2r5wtzfva2K8zGRBYY=",
+            "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg"
           ],
         "ingredients": [
           "2 teaspoons sugar",
@@ -948,7 +953,8 @@
         "recipe_name": "Honey Lip Mask",
         "images": [
           "https://5.imimg.com/data5/QN/EJ/MY-12250086/honey-pouring_1_6.jpg",
-          "https://vedix.com/cdn/shop/articles/Evidence-Based_d0ddd4a0-ff26-4541-bf3c-095cc6046b1c_1024x400.jpg?v=1635945992"
+          "https://vedix.com/cdn/shop/articles/Evidence-Based_d0ddd4a0-ff26-4541-bf3c-095cc6046b1c_1024x400.jpg?v=1635945992",
+          "https://images.news18.com/ibnlive/uploads/2023/09/untitled-design-2023-09-28t183351.990-2023-09-1a378b7a609494a02a6978dc9f1c07c7.jpg"
         ],
         "ingredients": [
           "2 tablespoon of Honey",
@@ -1056,7 +1062,8 @@
         "recipe_name": "Banana Peel Recipe",
         "images": [
             "https://thefoodtrends.com/wp-content/uploads/2023/01/banana-peel-tea.jpg",
-            "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg"
+            "https://yellowchilis.com/wp-content/uploads/2022/07/lemon-juice-500x500.jpg",
+            "https://www.cosmeticsinfo.org/wp-content/uploads/2023/10/GettyImages-995695892-scaled.jpg"
           ],
         "ingredients": [
           "1 banana peel",
@@ -1352,9 +1359,9 @@
                   "1 tablespoon of honey",
                   "½ a tablespoon of water"
               ],
-              "images": ["https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQE17xTH_zLtzlZv_Md7KdHwGrQ3lyIJjqXANJ9yKQfza6EFI1GP-MGofOWd3mYKoz0yMG9F12PL4BbKqo",
+              "images": ["https://images.immediate.co.uk/production/volatile/sites/30/2023/08/Porridge-oats-d09fae8.jpg?quality=90&resize=440,400",
                           "https://www.tasteofhome.com/wp-content/uploads/2024/02/GettyImages-1684517871-does-honey-expire-JVedit.jpg",
-                          "https://previews.123rf.com/images/tuk69tuk/tuk69tuk1602/tuk69tuk160200597/52291068-water-drop-in-spoon.jpg"],
+                          "https://images.pexels.com/photos/40784/drops-of-water-water-nature-liquid-40784.jpeg?cs=srgb&dl=pexels-pixabay-40784.jpg&fm=jpg"],
               "how_to_prepare": [
                   "Mix all the ingredients well together.",
                   "Warm the mixture gently until it's homogeneous."
@@ -1560,7 +1567,7 @@
       },
       {
         "recipe_name": "Chamomile-Vinegar Infusion",
-        "images": ["https://files.nccih.nih.gov/chamomile-steven-foster-square.jpg",
+        "images": ["https://cdn.pixabay.com/photo/2018/06/22/02/26/chamomile-3489847_640.jpg",
                     "https://www.thespruceeats.com/thmb/4Uxr_CKC7aR-UhEicIvVqLaiO0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-488636063-5ab2dbd8a8ff48049cfd36e8ad841ae5.jpg",
                     "https://images.healthshots.com/healthshots/en/uploads/2023/08/15105953/apple-cider-vinegar-1600x900.jpg"],
         "ingredients": [
