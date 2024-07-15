@@ -1693,5 +1693,162 @@
         ]
       }
     ]
+  },
+  {
+    "condition_name": "Dry Hair",
+    "condition_link": "https://www.researchgate.net/profile/Firoj-Tamboli-2/publication/353488724_Medicinal_plants_used_in_cosmetics_for_skin_and_hair_care/links/610407b61ca20f6f86ea8118/Medicinal-plants-used-in-cosmetics-for-skin-and-hair-care.pdf",
+    "body_part": "Hair",
+    "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
+    "condition_img": "https://media.istockphoto.com/id/1331735901/photo/rear-view-of-young-asian-woman-brushing-her-thick-hair.jpg?s=612x612&w=0&k=20&c=XH_3y7-zHhVGSaAgxcX5XMgX0dO9ndPiOo86BEjnbA8=",
+    "causes": [
+      "Excessive washing",
+      "Hormonal abnormalities",
+      "Malnutrition",
+      "Using harsh soap"
+    ],
+    "description": "Dry hair is the hair that loses its moisture and oil which leads to changes in appearance and texture. It occurs due to washing hair once or twice per day which leads to loss of all hair natural oils.",
+    "useful_tips": [
+      "Avoid hair styling by heat",
+      "Avoid using hot water for washing your hair, use lukewarm water instead",
+      "Eat healthy food including fruits and vegetables",
+      "Avoid stress"
+    ],
+    "recipes": [
+      {
+        "recipe_name": "The Yogurt and Coconut Oil Recipe",
+        "images": [
+            "https://media.istockphoto.com/id/1135483716/photo/sour-cream-or-yogurt-in-wooden-bowl.jpg?s=612x612&w=0&k=20&c=lZb0JJQ8HIr3Qu0XPaGBy0MoLFAuKiIy7NYdxR17wMY=",
+            "https://media6.ppl-media.com/mediafiles/blogs/coconut_oil_326d2ac421.png",
+            "https://cdn.britannica.com/72/170772-050-D52BF8C2/Avocado-fruits.jpg"
+          ],
+        "ingredients": [
+          "1 avocado",
+          "½ cup Yogurt",
+          "1 tablespoon coconut oil"
+        ],
+        "how_to_prepare": [
+          "In a pan mashed avocado is mixed with yogurt.",
+          "Melt coconut oil and add it to the mixture.",
+          "Blend the constituents together for a few minutes."
+        ],
+        "how_to_use": [
+          "Apply the mixture to the roots then to the entire hair.",
+          "Leave the mixture on your hair for 20 minutes.",
+          "Rinse it off as usual."
+        ],
+        "links": [
+          {
+            "link_text": "Read more",
+            "url": "https://www.researchgate.net/profile/Firoj-Tamboli-2/publication/353488724_Medicinal_plants_used_in_cosmetics_for_skin_and_hair_care/links/610407b61ca20f6f86ea8118/Medicinal-plants-used-in-cosmetics-for-skin-and-hair-care.pdf"
+          }
+        ]
+      },
+      {
+        "recipe_name": "The Banana and Honey Recipe",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdYAUXvlwNIrC2A_4oIhFUyBtKtLNHm0buQ&s", 
+          "https://cdn.pixabay.com/photo/2017/01/06/17/49/honey-1958464_640.jpg"
+        ],
+        "ingredients": [
+          "1 banana",
+          "2 tablespoon honey"
+        ],
+        "how_to_prepare": [
+          "In a pan, mash the banana.",
+          "Add the honey to the mashed banana."
+        ],
+        "how_to_use": [
+          "Apply the mixture to the hair.",
+          "Massage the scalp for few minutes.",
+          "Leave the mixture for 15-20 mins.",
+          "Wash hair with warm water."
+        ],
+        "links": [
+          {
+            "link_text": "Read more",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-29419-3.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "condition_name": "Damaged Hair",
+    "condition_link": "https://link.springer.com/article/10.1186/s40691-023-00332-0",
+    "body_part": "Hair",
+    "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
+    "condition_img": "https://t3.ftcdn.net/jpg/03/08/87/78/360_F_308877811_0SDaxXZcfrfx4ZRTVsGHDOVoGmVaFTi6.jpg",
+    "causes": [
+      "Hair styling by heat",
+      "Chemical treatment",
+      "Stress",
+      "Drying by towel"
+    ],
+    "description": "Thermal and mechanical hair treatments, such as permanent waving, hair straightening, and curling, are available. Because of the damage to the cuticles and the loss of bound and free moisture, these treatments negatively affect the quality of the hair.",
+    "useful_tips": [
+      "Using conditioner on the hair endings",
+      "Avoid heat",
+      "Protect the hair from the sun",
+      "Keep the hair hydrated"
+    ],
+    "recipes": [
+      {
+        "recipe_name": "The Coconut Oil Recipe",
+        "images": [
+          "https://media6.ppl-media.com/mediafiles/blogs/coconut_oil_326d2ac421.png",
+          "https://cdn.pixabay.com/photo/2017/01/06/17/49/honey-1958464_640.jpg"
+      ],
+        "ingredients": [
+          "2 tablespoon of coconut oil",
+          "1 tablespoon of honey"
+        ],
+        "how_to_prepare": [
+          "In a pan mix 2 tablespoon of coconut oil and 1 tablespoon of honey.",
+          "Melt in a pan until they are infused together."
+        ],
+        "how_to_use": [
+          "Apply the mixture on the wetted hair and leave it at least 20 minutes.",
+          "Washing your hair with gentle shampoo."
+        ],
+        "links": [
+          {
+            "link_text": "Read more",
+            "url": "https://link.springer.com/article/10.1186/s40691-023-00332-0"
+          },
+          {
+            "link_text": "Read more",
+            "url": "https://www.researchgate.net/profile/Gambhirsinh-Vala-2/publication/280574942_Medicinal_Benefits_of_Coconut_Oil_A_Review_paper/links/55bb561b08ae092e965ed871/Medicinal-Benefits-of-Coconut-Oil-A-Review-paper.pdf"
+          }
+        ]
+      },
+      {
+        "recipe_name": "The Rice Water Recipe",
+        "images": [
+          "https://www.thespruceeats.com/thmb/Pq1dH05CSZbep0zMc9Zs3luEsGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Herbal-tea-bag-582e1a743df78c6f6a29ef11.jpg", 
+          "https://www.thespruceeats.com/thmb/c0NitQJXppeQSH85bcnfJqgLcCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-make-jasmine-rice-3217510-step-02-5bd8c92d46e0fb0026eb1b90.jpg"],
+        "ingredients": [
+          "1 cup of rice",
+          "1 cup of water"
+        ],
+        "how_to_prepare": [
+          "Wash the rice to remove any impurities from it.",
+          "In a bowl mix the rice with water until the water becomes cloudy.",
+          "Strain the rice and keep the water.",
+          "In a plastic container put the rice water and place it at room temperature for 24 hours.",
+          "Transfer the bottle to the refrigerator until you can use it."
+        ],
+        "how_to_use": [
+          "Apply the water to the hair after shampooing and conditioning the hair.",
+          "Leave it for 2-5 minutes.",
+          "Rinse it off with water."
+        ],
+        "links": [
+          {
+            "link_text": "Read more",
+            "url": "https://www.researchgate.net/profile/Milind-Umekar/publication/352561846_A_FORMULATION_OF_FACE_PACK_AND_HAIR_PRODUCTS_OF_RICE_WATER_FOR_THE_USE_OF_SKIN_AND_HAIR_PROBLEM/links/60d07afb92851ca3acb83d02/A-FORMULATION-OF-FACE-PACK-AND-HAIR-PRODUCTS-OF-RICE-WATER-FOR-THE-USE-OF-SKIN-AND-HAIR-PROBLEM.pdf?uid=65253c6d69"
+          }
+        ]
+      }
+    ]
   }
 ]
