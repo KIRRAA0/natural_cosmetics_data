@@ -1569,7 +1569,7 @@
   {
     "condition_name": "الشفاه الداكنة",
     "condition_link": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/3534aec29b4ffe04562e749caa6b177a.pdf",
-    "body_part": "الشفاه",
+    "body_part": "Lips",
     "category_img": "https://skinkraft.com/cdn/shop/articles/a-beautiful-woman_s-perfect-natural-pink-lips_1024x400.jpg?v=1596201960",
     "condition_img": "https://images.indianexpress.com/2019/11/dark-lips-1200.jpg?w=389",
     "causes": [
@@ -1876,6 +1876,166 @@
       "تراكم العرق الذي يؤدي إلى نمو البكتيريا",
       "قدم الرياضي والعدوى الفطرية الأخرى"
     ]
+  },
+  {
+    "condition_name": "الشعر الجاف",
+    "condition_link": "https://www.researchgate.net/profile/Firoj-Tamboli-2/publication/353488724_Medicinal_plants_used_in_cosmetics_for_skin_and_hair_care/links/610407b61ca20f6f86ea8118/Medicinal-plants-used-in-cosmetics-for-skin-and-hair-care.pdf",
+    "body_part": "الشعر",
+    "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
+    "condition_img": "https://media.istockphoto.com/id/1331735901/photo/rear-view-of-young-asian-woman-brushing-her-thick-hair.jpg?s=612x612&w=0&k=20&c=XH_3y7-zHhVGSaAgxcX5XMgX0dO9ndPiOo86BEjnbA8=",
+    "causes": [
+      "الإفراط في غسل الشعر",
+      "الاضطرابات الهرمونية",
+      "سوء التغذية",
+      "استخدام الصابون القاسي"
+    ],
+    "description": "الشعر الجاف هو الشعر الذي يفقد رطوبته وزيته مما يؤدي إلى تغير في مظهره وملمسه. ويحدث ذلك بسبب غسل الشعر مرة أو مرتين يوميا مما يؤدي إلى فقدان جميع الزيوت الطبيعية للشعر.",
+    "useful_tips": [
+      "تجنب تصفيف الشعر بالحرارة",
+      "تجنب استخدام الماء الساخن لغسل شعرك، واستخدم الماء الفاتر بدلاً منه",
+      "تناول الغذاء الصحي بما في ذلك الفواكه والخضروات",
+      "تجنب التوتر"
+    ],
+    "recipes": [
+      {
+        "recipe_name": "وصفة الزبادي وزيت جوز الهند",
+        "images": [
+          "https://media.istockphoto.com/id/1135483716/photo/sour-cream-or-yogurt-in-wooden-bowl.jpg?s=612x612&w=0&k=20&c=lZb0JJQ8HIr3Qu0XPaGBy0MoLFAuKiIy7NYdxR17wMY=",
+          "https://media6.ppl-media.com/mediafiles/blogs/coconut_oil_326d2ac421.png",
+          "https://cdn.britannica.com/72/170772-050-D52BF8C2/Avocado-fruits.jpg"
+        ],
+        "ingredients": [
+          "1 ثمرة أفوكادو",
+          "½ كوب زبادي",
+          "1 ملعقة كبيرة زيت جوز الهند"
+        ],
+        "how_to_prepare": [
+          "في وعاء يتم خلط الأفوكادو المهروس مع الزبادي.",
+          "قم بإذابة زيت جوز الهند وإضافته إلى الخليط.",
+          "امزج المكونات معًا لبضع دقائق."
+        ],
+        "how_to_use": [
+          "ضع الخليط على الجذور ثم على كامل الشعر.",
+          "اترك الخليط على شعرك لمدة 20 دقيقة.",
+          "اشطفه كالمعتاد."
+        ],
+        "links": [
+          {
+            "link_text": "اقرأ المزيد",
+            "url": "https://www.researchgate.net/profile/Firoj-Tamboli-2/publication/353488724_Medicinal_plants_used_in_cosmetics_for_skin_and_hair_care/links/610407b61ca20f6f86ea8118/Medicinal-plants-used-in-cosmetics-for-skin-and-hair-care.pdf"
+          }
+        ]
+      },
+      {
+        "recipe_name": "وصفة الموز والعسل",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdYAUXvlwNIrC2A_4oIhFUyBtKtLNHm0buQ&s",
+          "https://cdn.pixabay.com/photo/2017/01/06/17/49/honey-1958464_640.jpg"
+        ],
+        "ingredients": [
+          "1 ثمرة موز",
+          "2 ملعقة كبيرة عسل"
+        ],
+        "how_to_prepare": [
+          "في مقلاة، اهرس الموز.",
+          "أضف العسل إلى الموز المهروس."
+        ],
+        "how_to_use": [
+          "ضعي الخليط على الشعر.",
+          "قم بتدليك فروة الرأس لبضع دقائق.",
+          "اترك الخليط لمدة 15-20 دقيقة.",
+          "اغسل الشعر بالماء الدافئ."
+        ],
+        "links": [
+          {
+            "link_text": "اقرأ المزيد",
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-29419-3.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "condition_name": "الشعر التالف",
+    "condition_link": "https://link.springer.com/article/10.1186/s40691-023-00332-0",
+    "body_part": "الشعر",
+    "category_img": "https://t4.ftcdn.net/jpg/00/64/73/45/360_F_64734528_g08kMMW3ieNhe0jBN6uOr2IiX5bb22DZ.jpg",
+    "condition_img": "https://t3.ftcdn.net/jpg/03/08/87/78/360_F_308877811_0SDaxXZcfrfx4ZRTVsGHDOVoGmVaFTi6.jpg",
+    "causes": [
+      "تصفيف الشعر بالحرارة",
+      "المعالجة الكيميائية",
+      "التوتر والضغط",
+      "التجفيف بالمنشفة"
+    ],
+    "description": "تتوفر علاجات الشعر الحرارية والميكانيكية، مثل التموج الدائم، وتمليس الشعر، وتجعيده. بسبب الأضرار التي لحقت بالبشرة وفقدان الرطوبة المقيدة والحرة، فإن هذه العلاجات تؤثر سلبا على نوعية الشعر.",
+    "useful_tips": [
+      "استخدام البلسم على أطراف الشعر",
+      "تجنب الحرارة",
+      "حماية الشعر من الشمس",
+      "الحفاظ على رطوبة الشعر"
+    ],
+    "recipes": [
+      {
+        "recipe_name": "وصفة زيت جوز الهند",
+        "images": [
+          "https://media6.ppl-media.com/mediafiles/blogs/coconut_oil_326d2ac421.png",
+          "https://cdn.pixabay.com/photo/2017/01/06/17/49/honey-1958464_640.jpg"
+        ],
+        "ingredients": [
+          "2 ملعقة كبيرة زيت جوز الهند",
+          "1 ملعقة كبيرة من العسل"
+        ],
+        "how_to_prepare": [
+          "في وعاء اخلط ملعقتين كبيرتين من زيت جوز الهند وملعقة كبيرة من العسل.",
+          "قم باذابة الزيت في مقلاة حتى يتم مزجهم مع بعضهم البعض."
+        ],
+        "how_to_use": [
+          "ضعي الخليط على الشعر المبلل واتركيه لمدة 20 دقيقة على الأقل.",
+          "اغسل شعرك بشامبو لطيف."
+        ],
+        "links": [
+          {
+            "link_text": "اقرأ المزيد",
+            "url": "https://link.springer.com/article/10.1186/s40691-023-00332-0"
+          },
+          {
+            "link_text": "اقرأ المزيد",
+            "url": "https://www.researchgate.net/profile/Gambhirsinh-Vala-2/publication/280574942_Medicinal_Benefits_of_Coconut_Oil_A_Review_paper/links/55bb561b08ae092e965ed871/Medicinal-Benefits-of-Coconut-Oil-A-Review-paper.pdf"
+          }
+        ]
+      },
+      {
+        "recipe_name": "وصفة ماء الأرز",
+        "images": [
+          "https://www.thespruceeats.com/thmb/Pq1dH05CSZbep0zMc9Zs3luEsGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Herbal-tea-bag-582e1a743df78c6f6a29ef11.jpg",
+          "https://www.thespruceeats.com/thmb/c0NitQJXppeQSH85bcnfJqgLcCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-make-jasmine-rice-3217510-step-02-5bd8c92d46e0fb0026eb1b90.jpg"
+        ],
+        "ingredients": [
+          "1 كوب أرز",
+          "1 كوب ماء"
+        ],
+        "how_to_prepare": [
+          "اغسل الأرز لإزالة أي شوائب عنه.",
+          "في وعاء، اخلط الأرز مع الماء حتى يصبح الماء عكراً.",
+          "قم بتصفية الأرز واحتفظ بالماء.",
+          "ضع ماء الأرز في وعاء بلاستيكي واتركه في درجة حرارة الغرفة لمدة 24 ساعة.",
+          "قم بنقل الزجاجة إلى الثلاجة حتى تتمكن من استخدامها."
+        ],
+        "how_to_use": [
+          "ضع الماء على الشعر بعد غسل الشعر بالشامبو وترطيبه.",
+          "اتركه لمدة 2-5 دقائق.",
+          "اشطفه بالماء."
+        ],
+        "links": [
+          {
+            "link_text": "اقرأ المزيد",
+            "url": "https://www.researchgate.net/profile/Milind-Umekar/publication/352561846_A_FORMULATION_OF_FACE_PACK_AND_HAIR_PRODUCTS_OF_RICE_WATER_FOR_THE_USE_OF_SKIN_AND_HAIR_PROBLEM/links/60d07afb92851ca3acb83d02/A-FORMULATION-OF-FACE-PACK-AND-HAIR-PRODUCTS-OF-RICE-WATER-FOR-THE-USE-OF-SKIN-AND-HAIR-PROBLEM.pdf?uid=65253c6d69"
+          }
+        ]
+      }
+    ]
   }
+  
+  
   
 ]
