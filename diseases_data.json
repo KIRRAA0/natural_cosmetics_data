@@ -274,27 +274,8 @@
             "url": "https://d1wqtxts1xzle7.cloudfront.net/70689979/paper_6_-libre.pdf?1632998937=&response-content-disposition=inline%3B+filename%3DEffective_Home_Remedies_that_Provide_Qui.pdf&Expires=1710605018&Signature=HJi6kUASHCmsrN~uFuzk1WoVLokOrMwk8~kqlzJzjcAw6yPYLhukM9JjKVW-Ta3Gr9UWSr9UqcOdO5dJB2tnqDJax7o-mRbMni9WUhldQtPXBqw0wlxUOOgipMmdnVs6HLiD4d8qw7Yu2r7nc0xLJQ-NX49TVl2NrUzCO2QdWHj~-A8ubDjnEa~27iyTVNBNQ~QETTYpD6NE5TiJ-r4Wyl7FdbIMOXPV95GFNmDtycMC8HI0xkksqN~-EbxAlwXthhvBmJfQTxgFspuWO9U63ysbmMa36vaRGwgpeUXXo7DuRboZ-QqXywKmr6ZRYNy7~56npO3KvTcKELyn1ofYOw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"
           }
         ]
-      },
-      {
-        "recipe_name": "The Black or Green Tea Recipe",
-        "ingredients": ["2 cold black tea or green tea bags"],
-        "images": [
-          "https://www.healthifyme.com/blog/wp-content/uploads/2020/02/Black-Tea-2-1.jpg",
-          "https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Best_Tea_big_898.jpg"
-        ],
-        "how_to_prepare":["Add boiling water to the tea bags in a cup","Brew the tea bags for 5 – 10 minutes","Take out the tea bags and put them in the refrigerator to cool"],
-        "how_to_use":["Gently place the tea bags over both eyes. Let them rest for 10-15 minutes then remove the tea bags and rinse the area with water. Repeat regularly."],
-        "links": [
-          {
-            "link_text": "Medical Resource",
-            "url": "https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/how-to-get-rid-of-bags-under-your-eyes"
-          },
-          {
-            "link_text": "Medical Resource",
-            "url": "https://www.researchgate.net/profile/Naga-Harika-Korrapati/publication/354871368_Effective_Home_Remedies_that_Provide_Quick_Relief_for_Puffy_Eyes/links/61520216d2ebba7be75221e6/Effective-Home-Remedies-that-Provide-Quick-Relief-for-Puffy-Eyes.pdf "
-          }
-        ]
       }
+      
     ],
     "causes": [
       "Aging and weakening of the muscles and tissues around the eyes",
